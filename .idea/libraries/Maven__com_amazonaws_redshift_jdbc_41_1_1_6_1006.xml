@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.amazonaws:redshift-jdbc:41-1.1.6.1006">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/amazonaws/redshift-jdbc/41-1.1.6.1006/redshift-jdbc-41-1.1.6.1006.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/amazonaws/redshift-jdbc/41-1.1.6.1006/redshift-jdbc-41-1.1.6.1006-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/amazonaws/redshift-jdbc/41-1.1.6.1006/redshift-jdbc-41-1.1.6.1006-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
